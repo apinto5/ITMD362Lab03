@@ -224,6 +224,7 @@ label {
   text-align: center;
   padding: 5%;
   margin: 1em;
+  padding-top: 2.5em;
   font-family: 'Bitter', serif;
 }
 .form input[type=text]{
