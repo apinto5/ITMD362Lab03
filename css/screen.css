@@ -233,6 +233,15 @@ label {
   box-sizing: border-box;
   padding-top: 0.1em;
 }
+.signup input[type=submit] {
+  width: 50%;
+  background-color: #a2d3e8;
+  color: white;
+  padding: 0.75em 1em;
+  margin: 2% 0;
+  border: none;
+  border-radius: 0.25em;
+}
 
 /* ===== LAYOUT STYLES ====== */
 
