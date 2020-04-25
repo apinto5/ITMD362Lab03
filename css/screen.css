@@ -228,9 +228,7 @@ label {
   width: 50%;
   padding: 1em 1.25em;
   display: block;
-  border: 1px solid black;
-  border-radius: 0.25em;
-  box-sizing: border-box;
+  background-color:#808080;
   padding-top: 0.1em;
 }
 .signup input[type=submit] {
@@ -239,7 +237,6 @@ label {
   color: white;
   padding: 0.75em 1em;
   margin: 2% 0;
-  border: none;
   border-radius: 0.25em;
 }
 
