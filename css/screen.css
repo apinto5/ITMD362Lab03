@@ -208,7 +208,8 @@ label {
   text-align: center;
   font-family: 'Times New Roman', serif;
   font-size: 2em;
-  padding-top: 5%; 
+  padding-top: 0.25em; 
+  padding-bottom: 0.5em;
 }
 
 .subheader {
@@ -230,7 +231,7 @@ label {
   padding: 1em 1.25em;
   display: block;
   background-color:#808080;
-  padding-top: 0.1em;
+  padding-top: 0.5em;
 }
 .form input[type=submit] {
   width: 50%;
