@@ -227,6 +227,9 @@ label {
   padding-top: 2.5em;
   font-family: 'Bitter', serif;
 }
+.form label{
+   padding-bottom: 2.5%;
+}
 .form input[type=text]{
   width: 50%;
   padding: 1em 1.25em;
