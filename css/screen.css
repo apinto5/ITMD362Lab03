@@ -231,10 +231,10 @@ label {
   background-color:#808080;
   padding-top: 0.1em;
 }
-.signup input[type=submit] {
+.form input[type=submit] {
   width: 50%;
-  background-color: #a2d3e8;
-  color: white;
+  background-color: #C0C0C0;
+  color: black;
   padding: 0.75em 1em;
   margin: 2% 0;
   border-radius: 0.25em;
